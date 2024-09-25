@@ -355,8 +355,8 @@ a:hover, a:active, a:focus {
   padding-left: 0;
 }
 
-#home .putih-img {
-  background: url('../images/putih-img.jpg') no-repeat;
+#home .home-img {
+  background: url('../images/alam-img.jpg') no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
