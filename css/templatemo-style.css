@@ -383,8 +383,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about .alam-img {
-    background: url('../images/alam-img.jpg') no-repeat;
-    background-position-y: 40px;
+    background: url('../images/putih-img.jpg') no-repeat;
 }
 
 #about .about-thumb,
