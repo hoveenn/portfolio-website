@@ -384,6 +384,7 @@ a:hover, a:active, a:focus {
 
 #about .alam-img {
     background: url('../images/putih-img.jpg') no-repeat;
+    background-size: 10px;
 }
 
 #about .about-thumb,
