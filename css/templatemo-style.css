@@ -384,6 +384,7 @@ a:hover, a:active, a:focus {
 
 #about .alam-img {
     background: url('../images/alam-img.jpg') no-repeat;
+    background-position: 0px 40px
 }
 
 #about .about-thumb,
